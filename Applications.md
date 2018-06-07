@@ -5,6 +5,10 @@
 We're not picky on code editors. VS Code, Sublime Text, Vim. Pick whatever works
 for you
 
+## Docker
+
+Containerize everything. [Get Docker for Mac](https://www.docker.com/docker-mac)
+
 ## Slack
 
 We use slack for communication.
