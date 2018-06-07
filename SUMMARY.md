@@ -5,3 +5,4 @@
 * [Nodejs and Global Libraries](Node.md)
 * [Tools We Use](Tools.md)
 * [SSH Keys](SSH.md)
+* [Patterns and Best Practices](Patterns.md)
