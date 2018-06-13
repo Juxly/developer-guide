@@ -5,6 +5,10 @@
 We're not picky on code editors. VS Code, Sublime Text, Vim. Pick whatever works
 for you
 
+## HomeBrew
+
+The missing package manager for mac [Get HomeBrew](https://brew.sh/)
+
 ## Docker
 
 Containerize everything. [Get Docker for Mac](https://www.docker.com/docker-mac)

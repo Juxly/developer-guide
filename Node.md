@@ -14,4 +14,4 @@ it [here](https://github.com/creationix/nvm). All Juxly projects should have a
 These are the node js libraries that you will need to have installed globally
 
 `npm install -g babel-cli bitbucket-pipelines eslint express express-generator
-gulp mongoose-data-seed phantomjs sequelize-cli`
+gulp mongoose-data-seed phantomjs sequelize-cli less`
