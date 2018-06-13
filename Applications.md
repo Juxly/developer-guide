@@ -5,6 +5,10 @@
 We're not picky on code editors. VS Code, Sublime Text, Vim. Pick whatever works
 for you
 
+## Xcode
+
+Tools for compiling
+
 ## HomeBrew
 
 The missing package manager for mac [Get HomeBrew](https://brew.sh/)
