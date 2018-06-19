@@ -2,12 +2,13 @@
 
 ## Editors
 
-We're not picky on code editors. VS Code, Sublime Text, Vim. Pick whatever works
-for you
+We're not picky on code editors. Atom, VS Code, Sublime Text, Vim. Pick whatever
+works for you
 
 ## Xcode
 
-Tools for compiling
+Tools for compiling. Be sure to open XCode after installing it to install
+components.
 
 ## HomeBrew
 
@@ -27,7 +28,7 @@ SQL GUI. [Install](https://sequelpro.com/)
 
 ## Robomongo
 
-MongoDB GUI [Install](https://robomongo.org/)
+MongoDB GUI [Install Robo 3T](https://robomongo.org/)
 
 ## Postman
 

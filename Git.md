@@ -1,4 +1,4 @@
-## Global ~/.gitignore file
+## Create a global ~/.gitignore file
 
 ```
 # Compiled source #
