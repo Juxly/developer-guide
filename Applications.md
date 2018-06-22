@@ -39,3 +39,13 @@ Test APIs [Install](https://www.getpostman.com/)
 Both are better terminal emulators then the built in mac terminal. Iterm2 is
 full featured. Alacritty is new and blazing fast. [ITerm2](https://iterm2.com/)
 [Alacritty](https://github.com/jwilm/alacritty)
+
+## ZSH
+
+A better shell! `brew install zsh zsh-completions`
+
+Install oh-my-zsh as well to manage your zsh configuration
+
+`https://github.com/robbyrussell/oh-my-zsh`
+
+Make ZSH your default shell
