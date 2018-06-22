@@ -8,17 +8,17 @@ extension) to make this easier.
 After installing git-flow (brew install git-flow), you can start using the
 git-flow library by running
 
-`git flow init
+`git flow init`
 
-Branch name for production releases: [master]
+`Branch name for production releases: [master]`
 
-Branch name for "next release" development: [develop]
+`Branch name for "next release" development: [develop]`
 
-How to name your supporting branch prefixes? Feature branches? [feature/]
+`How to name your supporting branch prefixes? Feature branches? [feature/]`
 
-Release branches? [release/] Hotfix branches? [hotfix/] Support branches?
+`Release branches? [release/] Hotfix branches? [hotfix/] Support branches?`
 
-[support/] Version tag prefix? []`
+`[support/] Version tag prefix? []`
 
 Git flow will not make any changes to your repository, it's a wrapper around
 existing git commands.
