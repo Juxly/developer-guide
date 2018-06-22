@@ -1,9 +1,10 @@
 # Branching
 
-We use [http://nvie.com/posts/a-successful-git-branching-model/](Git Flow
-Branching Model). It's a branching strategy that helps organize features,
-releases, fixes, etc. We use the [https://github.com/nvie/gitflow](git-flow
-extension) to make this easier.
+We use
+[Git Flow Branching Model](http://nvie.com/posts/a-successful-git-branching-model/).
+It's a branching strategy that helps organize features, releases, fixes, etc. We
+use the [git-flow extension](http://developer-guide.juxlyapps.com/git-flow) to
+make this easier.
 
 After installing git-flow (brew install git-flow), you can start using the
 git-flow library by running
@@ -14,15 +15,17 @@ git-flow library by running
 
 `Branch name for "next release" development: [develop]`
 
-`How to name your supporting branch prefixes? [support/]`
+`How to name your supporting branch prefixes?`
 
 `Feature branches? [feature/]`
 
 `Release branches? [release/]`
 
-`Hotfix branches? [hotfix/] Support branches?`
+`Hotfix branches? [hotfix/]`
 
-`[support/] Version tag prefix? []`
+`Support branches? [support/]`
+
+`Version tag prefix? []`
 
 Git flow will not make any changes to your repository, it's a wrapper around
 existing git commands.
