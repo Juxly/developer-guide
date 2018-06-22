@@ -14,9 +14,13 @@ git-flow library by running
 
 `Branch name for "next release" development: [develop]`
 
-`How to name your supporting branch prefixes? Feature branches? [feature/]`
+`How to name your supporting branch prefixes? [support/]`
 
-`Release branches? [release/] Hotfix branches? [hotfix/] Support branches?`
+`Feature branches? [feature/]`
+
+`Release branches? [release/]`
+
+`Hotfix branches? [hotfix/] Support branches?`
 
 `[support/] Version tag prefix? []`
 
